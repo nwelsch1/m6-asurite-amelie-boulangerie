@@ -15,6 +15,7 @@ header{
     background-image: url(images/bowl.jpg);
     background-repeat: no-repeat;
     background-color: #141a1a;
+    text-align: center;
 }
 h1{
     margin: 0;
@@ -26,5 +27,6 @@ h1{
     grid-template-columns: 184fr 1fr;
     gap: 0 16px;
     width: 1000px;
-    background-color: #fdfdfd;   
+    background-color: #fdfdfd;  
+    text-align: center; 
 }
