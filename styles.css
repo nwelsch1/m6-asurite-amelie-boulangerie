@@ -34,3 +34,7 @@ nav {
     width: 150px;
     margin-top: 16px;
 }
+nav li {
+    list-style-type: none;
+    text-align: center;
+}
