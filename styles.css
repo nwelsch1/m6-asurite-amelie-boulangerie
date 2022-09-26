@@ -30,3 +30,7 @@ h1{
     background-color: #fdfdfd;  
     margin: auto; 
 }
+nav {
+    width: 150px;
+    margin-top: 16px;
+}
