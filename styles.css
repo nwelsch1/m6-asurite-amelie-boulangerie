@@ -15,6 +15,7 @@ header{
     color: white;
     background-image: url(images/bowl.jpg);
     background-repeat: no-repeat;
+    justify-items: flex-end;
     background-color: #141a1a;
 }
 h1{
