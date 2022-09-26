@@ -7,14 +7,12 @@ body{
     margin: 0;
 }
 header, footer{
-    width: 1000px;
-    text-align: center;
+    width: 1000px center;
 }
 header{
     height: 150px;
     color: white;
     background-image: url(images/bowl.jpg);
     background-repeat: no-repeat;
-
     background-color: #141a1a;
 }
