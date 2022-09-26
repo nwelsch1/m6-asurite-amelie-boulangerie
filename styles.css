@@ -1,0 +1,12 @@
+*{
+    font-family: Verdana, Arial, sans-serif;
+    line-height: 1.5;
+}
+body{
+    background-color: #f28095;
+    margin: 0;
+}
+header, footer{
+    width: 1000px;
+    text-align: center;
+}
