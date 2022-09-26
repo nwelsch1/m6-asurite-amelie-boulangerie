@@ -68,3 +68,9 @@ main p, ul{
     display: inline-block;
     width: 50%;
 }
+main p{
+    margin-left: 32px;
+}
+main ul{
+    margin-left: 16px;
+}
