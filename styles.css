@@ -15,7 +15,7 @@ header{
     background-image: url(images/bowl.jpg);
     background-repeat: no-repeat;
     background-color: #141a1a;
-    text-align: center;
+    margin: auto;
 }
 h1{
     margin: 0;
@@ -28,5 +28,5 @@ h1{
     gap: 0 16px;
     width: 1000px;
     background-color: #fdfdfd;  
-    text-align: center; 
+    margin: auto; 
 }
