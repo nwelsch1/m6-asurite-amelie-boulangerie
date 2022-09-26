@@ -54,6 +54,6 @@ nav a {
 nav a:hover{
     background-color: #f28095;
 }
-nav a index.html{
+nav a href=index.html{
     background-color: #f28095;
 }
