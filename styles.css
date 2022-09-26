@@ -13,6 +13,7 @@ header, footer{
 header{
     height: 150px;
     color: white;
-    background-color: #141a1a;
     background-image: url(bowl.jpg);
+    background-color: #141a1a;
+    
 }
