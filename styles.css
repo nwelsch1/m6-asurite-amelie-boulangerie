@@ -64,3 +64,7 @@ main{
 main img{
     float: left;
 }
+main p, ul{
+    display: inline-block;
+    width: 50%;
+}
